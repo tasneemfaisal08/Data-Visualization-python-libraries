@@ -1,5 +1,22 @@
 # Data-Visualization-python-libraries
 This repository is a comprehensive resource for learning and practicing Python Visualization Libraries ( Matplotlib, Seaborn, Plotly, Pywaffle, Wordcloud, Folium.
+
+## ⚠️ Plotly Interactive Charts
+
+The visualizations in the **Plotly notebook** are interactive.
+
+GitHub may not render these interactive charts.  
+To view the charts as intended, please:
+
+1. Download the notebook.
+2. Open it using **Jupyter Notebook / Jupyter Lab**.
+3. Run the cells to see the interactive visualizations.
+
+This will allow you to explore features such as **hover information, zooming, and interactive chart elements**.
+
+
+
+
 # Data Visualization with Python
 
 This repository contains **Jupyter Notebooks explaining the most commonly used Python libraries for data visualization**.
